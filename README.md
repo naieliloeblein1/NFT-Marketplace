@@ -47,6 +47,10 @@ NFT-Marketplace/
 │ ├── src/ # Diretório principal do código ReactJS.
 │ ├── components/ # Diretório contendo os componentes reutilizáveis da aplicação.
 
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request :)
+
 ## Liçenca
 
 Copyright 2022 London App Brewery LTD (www.appbrewery.com)
